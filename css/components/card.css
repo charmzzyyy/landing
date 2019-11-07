@@ -1,0 +1,24 @@
+.card{
+display:block;
+text-align: center;
+}
+
+.card-background{
+  width:96px;
+  height:96px;
+  background: #E2DADB;
+  border-radius: 50%;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.card img{
+  width:64px;
+  height:64px;
+  text-align:center;
+  margin: 0 auto;
+  color: #605B56;
+}

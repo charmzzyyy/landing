@@ -1,0 +1,16 @@
+.container {
+    width: 80%;
+    max-width: 1200px;
+    padding:30px;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.container h2 {
+  text-align: center;
+  color: #605B56;
+  margin-top:8px;
+}
+
